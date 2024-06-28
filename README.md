@@ -1,2 +1,2 @@
 # akiko
-Aiko is a bot built on top of D++ library 
+Akiko is a bot built on top of D++ library 
